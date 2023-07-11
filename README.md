@@ -30,7 +30,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=eulx&hide_border=true&card_width=338&theme=transparent" /></p>
 <img src="https://komarev.com/ghpvc/?username=eulx&color=lightgray" alt="fax" width="" height="">
 <p align="center">
-<img alt="gengar" src="https://media.tenor.com/rcuxuxJjDcoAAAAC/pok%C3%A9mon-gengar.gif">
 </p>
 
 
