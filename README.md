@@ -11,6 +11,10 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/lua.svg" alt="lua" height="20" width="20" />
 </p>
 
+<h2 align="center">Discord</h2>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1119288863010062427)](https://discord.com/users/1119288863010062427)
+
 <h2 align="center">current projects</h2>
 
 (Newest -> Oldest)
@@ -21,9 +25,6 @@
 (Newest -> Oldest)
 - [Aqua Roleplay](https://discord.gg/aquarp) *(FiveM UK/EU Semi RP/Fragging Server)*
 - [HVC Roleplay](https://discord.gg/hvc) *(FiveM UK/EU Semi RP/Fragging Server)*
-- [CX Roleplay](https://discord.gg/cxrp) *(FiveM UK/EU Semi RP/Fragging Server)*
-- [GBN Roleplay](https://discord.gg/gbrp) *(FiveM UK/EU Semi RP/Fragging Server)*
-- [GBRP](https://discord.gg/gbrp) *(FiveM UK/EU Semi RP/Fragging Server)*
 <h2 align="center">contact</h2>
 
 <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eulx&theme=transparent" />
