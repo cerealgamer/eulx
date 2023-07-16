@@ -4,6 +4,7 @@
 - 15
 - united kingdom
 - freelance developer
+- epix gamer overall
 
 <h2 align="center">langs</h2>
 
@@ -11,7 +12,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/lua.svg" alt="lua" height="20" width="20" />
 </p>
 
-<h2 align="center">Discord</h2>
+<h2 align="center">Discord Status</h2>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1119288863010062427)](https://discord.com/users/1119288863010062427)
 
