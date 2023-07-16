@@ -4,7 +4,7 @@
 - 15
 - united kingdom
 - freelance developer
-- epix gamer overall
+- epic gamer overall
 
 <h2 align="center">langs</h2>
 
